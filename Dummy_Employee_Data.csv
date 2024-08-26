@@ -1,0 +1,6 @@
+Employee_ID,First_Name,Surname,Department,Position,Email,Salary,Date_of_Birth,Start_date,End_date
+3701626,Jane,Smith,IT,Developer,jane.smith@example.com,116293.0,17/04/1965,nul,nul
+5735681,Bob,Brown,HR,Recruiter,bob.brown@example.com,85026.0,06/04/1977,nul,nul
+7662231,Alice,Johnson,Marketing,Analyst,alice.johnson@example.com,110471.0,19/01/1989,nul,nul
+8036504,Carlos,Sanchez,Operations,Supervisor,carlos.sanchez@example.com,110966.0,25/04/1994,nul,nul
+123467,omar,qadoomi,AI,mang,omar@example.com,10000.0,4-1-2004,20-9-2022,20-9-2024
